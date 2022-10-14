@@ -68,3 +68,12 @@ $ git add README.md
 ```
 $ git commit -m “File pertama saya”
 ```
+#### - Perubahan berhasil disimpan.
+![Gambar1](gambar/pict3.png)
+
+## Membuat repository server
+#### - Server reopsitory yang akan kita gunakan adalah http://github.com
+#### - Anda harus membuat akun terlebih dahulu.
+#### - Pada laman github, klik tombol start a project, atau
+#### - Dari menu (icon +) klik New Repository
+
