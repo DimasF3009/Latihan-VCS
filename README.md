@@ -96,3 +96,20 @@ $ git remote add origin https://github.com/DimasF3009/lapy.git
 $ git push -u origin master
 ```
 #### - Perintah ini akan meminta memasukkan username dan password pada akun github.com
+![Gambar1](gambar/pict6.png)
+
+## Melihat hasilnya pada server repository
+#### - Buka laman github.com, arahkan pada repositorinya.
+#### - Maka perubahan akan terlihat pada laman tersebut.
+![Gambar1](gambar/pict7.png)
+
+## Clone Repository
+#### - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+#### - Untuk melakukan cloning, gunakan perintah git clone [url]
+![Gambar1](gambar/pict8.png)
+
+## Kegunaan file README.md
+#### - Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
+#### - Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
+#### - Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+#### - untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering- markdown/
