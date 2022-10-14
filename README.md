@@ -6,7 +6,7 @@
 ```
 git --Version
 ```
-![Gambar1](gambar/pic1.png)
+![Gambar1](gambar/pict1.png)
 
 ## Menambahkan Global Config
 #### - Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
@@ -53,3 +53,18 @@ $ git init
 $ echo "#latihan1" >>README.md
 ```
 #### - File README.md berhasil dibuat.
+![Gambar1](gambar/pict2.png)
+
+## Menambahkan File baru pada repository
+#### - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+```
+$ git add README.md
+```
+#### - File README.md berhasil ditambahkan.
+![Gambar1](gambar/pic3.png)
+
+## Commit (Menyimpan perubahan ke database)
+#### - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
+```
+$ git commit -m “File pertama saya”
+```
