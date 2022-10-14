@@ -6,4 +6,4 @@
 ```
 git --Version
 ```
-![Gambar1](gambar/gambar1.png)
+![Gambar1](gambar/pic1.png)
